@@ -20,4 +20,4 @@ In Symetric, We have one Shared secret that both the parties holds and communica
 on Another Hand we have ASymeteric Concept where we have one Public Key, One Private Key. One key For Encryption and then Second Key is for Decryption.
 
 
-(./blockchain-bitcoin-33-638.jpg)
+![center](./blockchain-bitcoin-33-638.jpg)
