@@ -71,8 +71,10 @@ Solutions for blockchain bloat:
 A two way (asymmetric) encryption system for communication.
 Provide authentication and confidentiality.
 
-# Authentication: Confirms the owner of the keys using Digital Certificate.
-Confidentiality: Encrypts data transmission.
+# Authentication:
+Confirms the owner of the keys using Digital Certificate.
+## Confidentiality:
+Encrypts data transmission.
 
 # How PKI Works:
 You                                				CA (Certified Authority)  _		                      Alice
