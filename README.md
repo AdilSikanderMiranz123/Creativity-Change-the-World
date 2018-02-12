@@ -67,6 +67,39 @@ Solutions for blockchain bloat:
 •	Increase Blocksize
 •	Use sidechain solutions
 
+# What is Public Key Infrastructure?
+A two way (asymmetric) encryption system for communication.
+Provide authentication and confidentiality.
+
+# Authentication: Confirms the owner of the keys using Digital Certificate.
+Confidentiality: Encrypts data transmission.
+
+# How PKI Works:
+You                                				CA (Certified Authority)  _		                      Alice
+->You   request Alice certificate to the CA.
+->The CA sends Alice certificate to you.
+->You encrypts your message using Alice’s verifies public key contained with the CA.
+->You send the encrypted message to Alice.
+->Alice decrypts the message with her private key.
+# Public key infrastructure:
+PKI is the framework for encryption that associates a public key with a verified person/system.
+# Public key:
+The part of the key pair that is available and distributed to the public.
+# Private Key:
+The part of the key pair that is secret and used only by the key owner.
+# Certificate Authority:
+CAs are responsible for issuing, revoking, and distributing digital certificates.
+# Digital Certificate:
+A certificate that verifies whom the public key belongs to .
+# Registration Authority:
+The RA verifies the prospective key owners identify and sends it to the CA to issue a Certificate.
+# Certificate Revocation Lists:
+Al list hi certificates that are no longer useable. The list is frequently published.
+# Recovery Agent.
+A person who is authorized to recover lost private Keys.
+# Key Escrow.
+Keeping secured copies of private keys for law Enforcement purpose.
+
 
 
 
