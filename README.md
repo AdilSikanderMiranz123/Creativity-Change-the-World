@@ -127,6 +127,25 @@ When the user logins to his or her machine. The principal, is sent to KDC server
 ->Now the client has got TGT in hand. If suppose the client needs to communicate with some service on that network, the client will ask the KDC server, for a ticket for that specific service with the help of TGT.
 
 
+## Ethereum:
+
+Ethereum is a decentralized platform for applications that run exactly as programmed without any chance of fraud, censorship or third-party interference.
+
+## IDE For Ethereum :
+
+Solidity 
+
+## Connectivity With Android 
+
+W3js library (java Library)
+
+
+
+
+
+
+
+
 
 
 
